@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/addressbook-react/static/css/main.745df530.css",
+    "main.js": "/addressbook-react/static/js/main.1f34acee.js",
+    "static/js/787.0512b950.chunk.js": "/addressbook-react/static/js/787.0512b950.chunk.js",
+    "static/media/AddressBKG.jpg": "/addressbook-react/static/media/AddressBKG.3e7d25ee55180a9a59c1.jpg",
+    "index.html": "/addressbook-react/index.html",
+    "main.745df530.css.map": "/addressbook-react/static/css/main.745df530.css.map",
+    "main.1f34acee.js.map": "/addressbook-react/static/js/main.1f34acee.js.map",
+    "787.0512b950.chunk.js.map": "/addressbook-react/static/js/787.0512b950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745df530.css",
+    "static/js/main.1f34acee.js"
+  ]
+}
